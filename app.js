@@ -35,7 +35,7 @@ function sortearAmigo() {
         //Generamos un número aleatorio entre 0 y la cantidad total de nombres ingresados.
         let numeroGenerado =  Math.floor(Math.random() * listaNombres.length);
         //Devolvemos de la lista de nombre el valor con el índice entregado por el número aleatorio.
-        addLi('resultado', listaNombres[numeroGenerado]);
+        addLi('resultado', `El amigo secreto sorteado es: ${listaNombres[numeroGenerado]}`);
         //Eliminamos los elementos de la lista en el html
         document.getElementById('listaAmigos').innerHTML = "";
         //Eliminamos los elementos de la lista
