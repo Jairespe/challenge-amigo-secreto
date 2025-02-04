@@ -1,3 +1,5 @@
+![amigosecreto_imagen](https://github.com/user-attachments/assets/7b885ce1-ef4a-49b6-bc51-0af09a034eb8)
+
 # Challenge - Amigo Secreto
 
 ## 1. Descripción del Proyecto
